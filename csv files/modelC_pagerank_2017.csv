@@ -1,0 +1,698 @@
+Player,Score,Category,team
+Nick Pope,0.043711266613431235,GK,Burnley
+Asmir Begović,0.04479631228784473,GK,Bournemouth
+Wayne Hennessey,0.034502803568061804,GK,Crystal Palace
+Ben Foster,0.04417900727420705,GK,West Brom
+Jonas Lössl,0.04570130786550162,GK,Huddersfield
+David Ospina,0.009294432915473454,GK,Arsenal
+Loris Karius,0.02407997822590424,GK,Liverpool
+Mathew Ryan,0.047386684354958866,GK,Brighton
+Sergio Romero,0.005142383309801003,GK,Manchester United
+Heurelho Gomes,0.03373993809245753,GK,Watford
+Martin Dúbravka,0.016709590493532336,GK,Newcastle
+Thibaut Courtois,0.042223013215325435,GK,Chelsea
+Alex McCarthy,0.027804388701682288,GK,Southampton
+Claudio Bravo,0.006568900087140799,GK,Manchester City
+Łukasz Fabiański,0.04500227170868492,GK,Swansea
+Jack Butland,0.04168839658973083,GK,Stoke City
+Hugo Lloris,0.04485854403096813,GK,Tottenham
+Eldin Jakupović,0.0060326192887790705,GK,Leicester
+Adrián,0.02418786936621401,GK,West Ham
+Jordan Pickford,0.04664591644973795,GK,Everton
+David De Gea,0.043918380862113755,GK,Manchester United
+Petr Čech,0.04104358200006601,GK,Arsenal
+Willy Caballero,0.007088691274565587,GK,Chelsea
+Ederson,0.042432515686762644,GK,Manchester City
+Ben Hamer,0.007456310001026261,GK,Leicester
+Orestis Karnezis,0.018891291701894915,GK,Watford
+Joe Hart,0.02538623271658591,GK,West Ham
+Kasper Schmeichel,0.04268057802320562,GK,Leicester
+Karl Darlow,0.014359120223990472,GK,Newcastle
+Michel Vorm,0.005260213284854607,GK,Tottenham
+Simon Mignolet,0.026472591360401983,GK,Liverpool
+Julián Speroni,0.019251220230941612,GK,Crystal Palace
+Robert Elliot,0.02136166622064277,GK,Newcastle
+Fraser Forster,0.02514976891695723,GK,Southampton
+Lee Grant,0.007277755772872463,GK,Stoke City
+Paulo Gazzaniga,0.005434833501404748,GK,Tottenham
+Boaz Myhill,0.005046714798104104,GK,West Brom
+Tom Heaton,0.007232908984171649,GK,Burnley
+Matthew Lowton,0.007629104645496656,DF,Burnley
+Kevin Long,0.005105912105445941,DF,Burnley
+James Tarkowski,0.00864684119307103,DF,Burnley
+Stephen Ward,0.007640137041057291,DF,Burnley
+Steve Cook,0.009322828263674723,DF,Bournemouth
+Nathan Aké,0.010706064803909409,DF,Bournemouth
+Tyrone Mings,0.001335191498154714,DF,Bournemouth
+Aaron Wan-Bissaka,0.003113485670821226,DF,Crystal Palace
+James Tomkins,0.00919745905078015,DF,Crystal Palace
+Mamadou Sakho,0.006477388638987107,DF,Crystal Palace
+Patrick van Aanholt,0.007670108986646326,DF,Crystal Palace
+Pape Souaré,0.0007830413062276886,DF,Crystal Palace
+Allan Nyom,0.006063919406755158,DF,West Brom
+Craig Dawson,0.007980034902709664,DF,West Brom
+Ahmed Hegazy,0.010581456445882776,DF,West Brom
+Kieran Gibbs,0.006922363559144104,DF,West Brom
+Florent Hadergjonaj,0.004057441192748203,DF,Huddersfield
+Zanka,0.011347142909591847,DF,Huddersfield
+Christopher Schindler,0.011342377022420252,DF,Huddersfield
+Terence Kongolo,0.0042325782441135695,DF,Huddersfield
+Chris Löwe,0.0051108441527236365,DF,Huddersfield
+Héctor Bellerín,0.004987381321046212,DF,Arsenal
+Shkodran Mustafi,0.011019383064044947,DF,Arsenal
+Rob Holding,0.004250113354997123,DF,Arsenal
+Sead Kolašinac,0.004191136736709942,DF,Arsenal
+Nacho Monreal,0.010383725108036701,DF,Arsenal
+Trent Alexander-Arnold,0.0057444516703640215,DF,Liverpool
+Dejan Lovren,0.009544784903019982,DF,Liverpool
+Virgil van Dijk,0.010138166638164255,DF,Liverpool
+Andrew Robertson,0.0076347138563854534,DF,Liverpool
+Ezequiel Schelotto,0.004377207227395154,DF,Brighton
+Shane Duffy,0.009602455029208585,DF,Brighton
+Lewis Dunk,0.012152476023707816,DF,Brighton
+Gaëtan Bong,0.007499086264530927,DF,Brighton
+Connor Goldson,0.001173934065972427,DF,Brighton
+Matteo Darmian,0.0022083627172405883,DF,Manchester United
+Eric Bailly,0.004271725422254893,DF,Manchester United
+Marcos Rojo,0.002517342251078444,DF,Manchester United
+Ashley Young,0.008424884374991773,DF,Manchester United
+Luke Shaw,0.0032247749913618656,DF,Manchester United
+Daryl Janmaat,0.005885241032232837,DF,Watford
+Craig Cathcart,0.0020710115430157476,DF,Watford
+Christian Kabasele,0.0074506638964363155,DF,Watford
+José Holebas,0.005840182033464062,DF,Watford
+Adrian Mariappa,0.008041127563170625,DF,Watford
+DeAndre Yedlin,0.008242352437164095,DF,Newcastle
+Jamaal Lascelles,0.008033589132677725,DF,Newcastle
+Florian Lejeune,0.007161240362687877,DF,Newcastle
+Paul Dummett,0.005214087040578118,DF,Newcastle
+Massadio Haïdara,0.0007755041904299081,DF,Newcastle
+César Azpilicueta,0.013152020830688615,DF,Chelsea
+Andreas Christensen,0.008289176682020885,DF,Chelsea
+Gary Cahill,0.007286546564440462,DF,Chelsea
+Cédric Soares,0.00788551634952439,DF,Southampton
+Jack Stephens,0.007562612759197162,DF,Southampton
+Maya Yoshida,0.008348425370057356,DF,Southampton
+Wesley Hoedt,0.010065403344640282,DF,Southampton
+Ryan Bertrand,0.00943330596441812,DF,Southampton
+Sam McQueen,0.001149156031117747,DF,Southampton
+Danilo,0.006591495541135931,DF,Manchester City
+John Stones,0.006994017690958415,DF,Manchester City
+Aymeric Laporte,0.004419600653307049,DF,Manchester City
+Fabian Delph,0.009027162524431621,DF,Manchester City
+Àngel Rangel,0.0012182959416793175,DF,Swansea
+Mike Van der Hoorn,0.005933997088247776,DF,Swansea
+Alfie Mawson,0.00988986481083331,DF,Swansea
+Martin Olsson,0.005856159367239233,DF,Swansea
+Moritz Bauer,0.0027504316854360805,DF,Stoke City
+Ryan Shawcross,0.006561171724808154,DF,Stoke City
+Kurt Zouma,0.009736535729501245,DF,Stoke City
+Erik Pieters,0.005627872774280943,DF,Stoke City
+Kyle Walker-Peters,0.0014625682401377205,DF,Tottenham
+Toby Alderweireld,0.004997785950030208,DF,Tottenham
+Eric Dier,0.004931846620732081,DF,Tottenham
+Danny Rose,0.0024022514355101143,DF,Tottenham
+Davinson Sánchez,0.010847951761053826,DF,Tottenham
+Danny Simpson,0.0069367578578245406,DF,Leicester
+Wes Morgan,0.008048801486397538,DF,Leicester
+Harry Maguire,0.011979020964693372,DF,Leicester
+Christian Fuchs,0.008557393554978943,DF,Leicester
+Declan Rice,0.005416347078065814,DF,West Ham
+Angelo Ogbonna,0.009757117912900825,DF,West Ham
+Aaron Cresswell,0.007983778690895262,DF,West Ham
+James Collins,0.0037656049055851447,DF,West Ham
+Michael Keane,0.010057927308436696,DF,Everton
+Phil Jagielka,0.008389751721699746,DF,Everton
+Ramiro Funes Mori,0.0009850441344502832,DF,Everton
+Antonio Valencia,0.009285253728521854,DF,Manchester United
+Victor Lindelöf,0.005281599260805815,DF,Manchester United
+Chris Smalling,0.009684542720846932,DF,Manchester United
+Phil Jones,0.008028430822715527,DF,Manchester United
+Vincent Kompany,0.006962378090652663,DF,Manchester City
+Oleksandr Zinchenko,0.0035505545381187735,DF,Manchester City
+Benjamin Mendy,0.0015730259932263293,DF,Manchester City
+Bruno Saltor,0.0069440808804940475,DF,Brighton
+Kieran Trippier,0.005703129851200999,DF,Tottenham
+Jan Vertonghen,0.014440898474914185,DF,Tottenham
+Ben Davies,0.006565896165152962,DF,Tottenham
+Aleksandar Dragović,0.0036140770038816158,DF,Leicester
+Ainsley Maitland-Niles,0.0022297975635755148,DF,Arsenal
+Konstantinos Mavropanos,0.0014072028081683196,DF,Arsenal
+Antonio Rüdiger,0.008333739812977794,DF,Chelsea
+Tommy Smith,0.005472924257158136,DF,Huddersfield
+Scott Malone,0.004417455653289597,DF,Huddersfield
+Kyle Naughton,0.00991934430996876,DF,Swansea
+Federico Fernández,0.00800412047031377,DF,Swansea
+Jan Bednarek,0.0019288784533641207,DF,Southampton
+Calum Chambers,0.004163167200681417,DF,Arsenal
+Per Mertesacker,0.0019168758404385245,DF,Arsenal
+Davide Zappacosta,0.0010227400635419196,DF,Chelsea
+Nathaniel Clyne,0.0012582611195212246,DF,Liverpool
+Alberto Moreno,0.0051382364567910295,DF,Liverpool
+Kyle Walker,0.012137913768677362,DF,Manchester City
+Nicolás Otamendi,0.01563879934613891,DF,Manchester City
+Séamus Coleman,0.0035855463450288902,DF,Everton
+Leighton Baines,0.005312231982401681,DF,Everton
+Simon Francis,0.009335611246906992,DF,Bournemouth
+Yohan Benalouane,0.0011193073751330012,DF,Leicester
+Patrice Evra,0.0011389149159023696,DF,West Ham
+Javier Manquillo,0.004901303120557871,DF,Newcastle
+Glen Johnson,0.0019366189211929281,DF,Stoke City
+Joel Ward,0.005028489560900596,DF,Crystal Palace
+Jeffrey Schlupp,0.004384258388002731,DF,Crystal Palace
+Martin Kelly,0.0034493592558958704,DF,Crystal Palace
+Arthur Masuaku,0.00197613115253825,DF,West Ham
+Marc Albrighton,0.0011363716728110904,DF,Leicester
+Ben Chilwell,0.006283215357655061,DF,Leicester
+Jonny Evans,0.007630445478772221,DF,West Brom
+Joe Gomez,0.008240197657072101,DF,Liverpool
+Ragnar Klavan,0.006324306923281821,DF,Liverpool
+James Milner,0.0017222819105330881,DF,Liverpool
+Bruno Martins Indi,0.00357568353374929,DF,Stoke City
+Kyle Bartley,0.0012575836502513693,DF,Swansea
+Laurent Koscielny,0.010958022795239643,DF,Arsenal
+Kiko Femenia,0.0034461446513053134,DF,Watford
+Charlie Daniels,0.006791093641205286,DF,Bournemouth
+Daley Blind,0.001762005692363828,DF,Manchester United
+Serge Aurier,0.004213513287174146,DF,Tottenham
+Geoff Cameron,0.0027387622747855654,DF,Stoke City
+Ryan Fraser,0.0014269135077925855,DF,Bournemouth
+Sebastian Prödl,0.005536715294362616,DF,Watford
+Idrissa Gueye,0.0008640972505820648,DF,Everton
+Emerson Palmieri,0.0007910801807600099,DF,Chelsea
+Ben Mee,0.00791366663947705,DF,Burnley
+Timothy Fosu-Mensah,0.006561767516629567,DF,Crystal Palace
+Joël Matip,0.008461270230668335,DF,Liverpool
+Miguel Britos,0.0031701541036082068,DF,Watford
+Adam Smith,0.0046395045664012246,DF,Bournemouth
+Konstantinos Stafylidis,0.0018377495709141838,DF,Stoke City
+Mason Holgate,0.004052977680669669,DF,Everton
+Markus Suttner,0.004276711142600211,DF,Brighton
+Daniel Amartey,0.0024779155357887907,DF,Leicester
+Winston Reid,0.0050782255426355385,DF,West Ham
+Sam Byram,0.0009013014688851899,DF,West Ham
+Ashley Williams,0.0057817822013313935,DF,Everton
+Cuco Martina,0.006482942986763344,DF,Everton
+Damien Delaney,0.001105860715598686,DF,Crystal Palace
+Jonjoe Kenny,0.004663721540519138,DF,Everton
+Matt Phillips,0.0012835230962825292,DF,West Brom
+Eliaquim Mangala,0.0029264402584333804,DF,Everton
+Charlie Taylor,0.0035070320188787677,DF,Burnley
+David Luiz,0.0031847790600749585,DF,Chelsea
+Ciaran Clark,0.004679953215250259,DF,Newcastle
+Michael Hefele,0.0007739095797096317,DF,Huddersfield
+Gareth McAuley,0.0019832209340739414,DF,West Brom
+Phil Bardsley,0.0038428012177895068,DF,Burnley
+Reece Oxford,0.0007782936865561207,DF,West Ham
+Isaac Hayden,0.0012867174270146955,DF,Newcastle
+Jaïro Riedewald,0.001205944785580845,DF,Crystal Palace
+Molla Wagué,0.0018474243708677053,DF,Watford
+Marvin Zeegelaar,0.002313402058940552,DF,Watford
+Josh Tymon,0.00121726776062394,DF,Stoke City
+Kevin Wimmer,0.00452446465757929,DF,Stoke City
+Connor Roberts,0.0007962176064963839,DF,Swansea
+Jérémy Pied,0.001605723605165552,DF,Southampton
+Axel Tuanzebe,0.0007741381333840451,DF,Manchester United
+Tom Edwards,0.0018729979028365969,DF,Stoke City
+Scott Dann,0.0048460088127657355,DF,Crystal Palace
+Chancel Mbemba,0.0027536459751772565,DF,Newcastle
+Matt Targett,0.0013980010152161726,DF,Southampton
+Jack Simpson,0.0008763252372805366,DF,Bournemouth
+Pablo Zabaleta,0.003360371721938778,DF,West Ham
+Emre Can,0.0012928114968061826,DF,Liverpool
+Georginio Wijnaldum,0.001208107837407286,DF,Liverpool
+Martin Cranie,0.0011703166339402254,DF,Huddersfield
+Francis Coquelin,0.0009770967224744678,DF,Arsenal
+Cheikhou Kouyaté,0.0015025872591098682,DF,West Ham
+Sam Clucas,0.0008964164591088513,DF,Swansea
+José Fonte,0.0032612847444168265,DF,West Ham
+Uwe Hünemeier,0.0007904532388524457,DF,Brighton
+Jesús Gámez,0.0010457925508246682,DF,Newcastle
+Liam Rosenior,0.0011924976808737441,DF,Brighton
+Younès Kaboul,0.001247110708507325,DF,Watford
+Chris Brunt,0.0012562930638879044,DF,West Brom
+Aaron Lennon,0.00288222744769295,MF,Burnley
+Jack Cork,0.007346687217453227,MF,Burnley
+Ashley Westwood,0.0030793349694610457,MF,Burnley
+Jóhann Guðmundsson,0.01037423717091331,MF,Burnley
+Ryan Fraser,0.00516351663399137,MF,Bournemouth
+Emerson Hyndman,0.0006164565478888317,MF,Bournemouth
+Andrew Surman,0.006569717204400955,MF,Bournemouth
+Charlie Daniels,0.0029913792118622575,MF,Bournemouth
+Dan Gosling,0.004246960543110589,MF,Bournemouth
+James McArthur,0.005942694480502458,MF,Crystal Palace
+Yohan Cabaye,0.008930610209911555,MF,Crystal Palace
+Luka Milivojević,0.007826051292035154,MF,Crystal Palace
+Ruben Loftus-Cheek,0.005713706555212519,MF,Crystal Palace
+Chung-yong Lee,0.0006082429263953812,MF,Crystal Palace
+Jay Rodriguez,0.0009033275804979829,MF,West Brom
+Jake Livermore,0.005793562109604622,MF,West Brom
+Chris Brunt,0.005523580816489994,MF,West Brom
+James McClean,0.0019797688292756974,MF,West Brom
+Nacer Chadli,0.0005433612574851628,MF,West Brom
+Aaron Mooy,0.011128796044101923,MF,Huddersfield
+Jonathan Hogg,0.006159853452121378,MF,Huddersfield
+Thomas Ince,0.0038973518269517634,MF,Huddersfield
+Dean Whitehead,0.000601491576601973,MF,Huddersfield
+Philip Billing,0.001403642363823612,MF,Huddersfield
+Alex Iwobi,0.003957868323759689,MF,Arsenal
+Granit Xhaka,0.016067657629622527,MF,Arsenal
+Aaron Ramsey,0.009604198662360033,MF,Arsenal
+Ainsley Maitland-Niles,0.0015268596476886948,MF,Arsenal
+Mohamed Salah,0.002155610816381906,MF,Liverpool
+Jordan Henderson,0.012295056452905708,MF,Liverpool
+Georginio Wijnaldum,0.00866166727345618,MF,Liverpool
+Sadio Mané,0.0037607713841509094,MF,Liverpool
+Ben Woodburn,0.0005264843656994051,MF,Liverpool
+Adam Lallana,0.001000962255859967,MF,Liverpool
+Dale Stephens,0.007941974514038053,MF,Brighton
+Davy Pröpper,0.007869822043292556,MF,Brighton
+Anthony Knockaert,0.00560110743251513,MF,Brighton
+Beram Kayal,0.0017222864543640312,MF,Brighton
+Solly March,0.0031012452427745638,MF,Brighton
+Pascal Groß,0.0027312850684948395,MF,Brighton
+Scott McTominay,0.0023753946867547332,MF,Manchester United
+Michael Carrick,0.001487432832994508,MF,Manchester United
+Daley Blind,0.001175666221347122,MF,Manchester United
+Ander Herrera,0.005285340661721267,MF,Manchester United
+Paul Pogba,0.009797392645459979,MF,Manchester United
+Abdoulaye Doucouré,0.012987225088483996,MF,Watford
+Gerard Deulofeu,0.0008109728826973145,MF,Watford
+Will Hughes,0.0029144856964231024,MF,Watford
+Roberto Pereyra,0.0037365846710716816,MF,Watford
+Richarlison,0.002785176031412809,MF,Watford
+Nathaniel Chalobah,0.0011574889938125096,MF,Watford
+Jonjo Shelvey,0.007850317645413099,MF,Newcastle
+Mohamed Diamé,0.003970176117066857,MF,Newcastle
+Matt Ritchie,0.007267335055321042,MF,Newcastle
+Ayoze Pérez,0.0029214975564147943,MF,Newcastle
+Jacob Murphy,0.0016895220503425953,MF,Newcastle
+Isaac Hayden,0.0020243426614943395,MF,Newcastle
+Victor Moses,0.006737655439886951,MF,Chelsea
+Ross Barkley,0.0006277753424773408,MF,Chelsea
+N'Golo Kanté,0.014195122102978967,MF,Chelsea
+Tiemoué Bakayoko,0.006854024365838109,MF,Chelsea
+Emerson Palmieri,0.0012274542242945697,MF,Chelsea
+Willian,0.0008207815336665518,MF,Chelsea
+Dušan Tadić,0.007338632730362464,MF,Southampton
+Pierre-Emile Højbjerg,0.004867596577630966,MF,Southampton
+Oriol Romeu,0.0075786462132469735,MF,Southampton
+Nathan Redmond,0.005968202081332881,MF,Southampton
+James Ward-Prowse,0.004921062367500986,MF,Southampton
+Kevin De Bruyne,0.027613936956167557,MF,Manchester City
+Fernandinho,0.017813139403954615,MF,Manchester City
+İlkay Gündoğan,0.008758022232184342,MF,Manchester City
+Phil Foden,0.0006385378430706513,MF,Manchester City
+Brahim Díaz,0.0005436238423163361,MF,Manchester City
+Nathan Dyer,0.001583971127062442,MF,Swansea
+Andy King,0.0026615072380318187,MF,Swansea
+Tom Carroll,0.010100474208733005,MF,Swansea
+Wayne Routledge,0.0011807993516684107,MF,Swansea
+Leon Britton,0.0007353844453641076,MF,Swansea
+Sam Clucas,0.004188518133679556,MF,Swansea
+Joe Allen,0.008820914337713245,MF,Stoke City
+Lasse Sorensen,0.0010660767358032569,MF,Stoke City
+Badou Ndiaye,0.0021614030343149026,MF,Stoke City
+Darren Fletcher,0.00581367882516845,MF,Stoke City
+Stephen Ireland,0.0005986116955122101,MF,Stoke City
+Moussa Sissoko,0.0055577571006946444,MF,Tottenham
+Victor Wanyama,0.0031131566385306686,MF,Tottenham
+Érik Lamela,0.0020276883480490723,MF,Tottenham
+Christian Eriksen,0.021990164594278615,MF,Tottenham
+Lucas Moura,0.0013080637882863146,MF,Tottenham
+Dele Alli,0.010826980846481423,MF,Tottenham
+Adrien Silva,0.0019423161840706432,MF,Leicester
+Vicente Iborra,0.0042764536893417785,MF,Leicester
+Riyad Mahrez,0.010979694107526791,MF,Leicester
+Kelechi Iheanacho,0.0006220127821579994,MF,Leicester
+Demarai Gray,0.0031892747883743716,MF,Leicester
+Hamza Choudhury,0.0013219416146243875,MF,Leicester
+Pablo Zabaleta,0.004200114903792699,MF,West Ham
+Cheikhou Kouyaté,0.0046058053470169275,MF,West Ham
+Mark Noble,0.006591795610804643,MF,West Ham
+Arthur Masuaku,0.0031136954540103966,MF,West Ham
+Pedro Obiang,0.0029769986002496094,MF,West Ham
+Morgan Schneiderlin,0.004596693574278315,MF,Everton
+Séamus Coleman,0.0005767374116275325,MF,Everton
+Tom Davies,0.0029936551154067367,MF,Everton
+Idrissa Gueye,0.006918915384386184,MF,Everton
+Leighton Baines,0.0017136882178385292,MF,Everton
+Davy Klaassen,0.0006811029710434541,MF,Everton
+Ashley Young,0.0012050058465834811,MF,Manchester United
+Yaya Touré,0.0023319385005281137,MF,Manchester City
+José Izquierdo,0.003373064162583296,MF,Brighton
+Heung-Min Son,0.007600775698725719,MF,Tottenham
+Kenedy,0.003176366542847474,MF,Newcastle
+Fousseni Diabaté,0.0011950784866011236,MF,Leicester
+Davide Zappacosta,0.003128245704787885,MF,Chelsea
+Cesc Fàbregas,0.015708882344580337,MF,Chelsea
+Marcos Alonso,0.00974980645845041,MF,Chelsea
+Eden Hazard,0.0008015881482603322,MF,Chelsea
+Florent Hadergjonaj,0.0013711044139182273,MF,Huddersfield
+Alex Pritchard,0.0020330426912724396,MF,Huddersfield
+Connor Roberts,0.0010144418711727794,MF,Swansea
+Sung-Yueng Ki,0.005987574223893492,MF,Swansea
+Martin Olsson,0.0017003964962788722,MF,Swansea
+Luciano Narsingh,0.0010377658718282987,MF,Swansea
+Cédric Soares,0.0019037322843650636,MF,Southampton
+Ryan Bertrand,0.002028980844790577,MF,Southampton
+Jack Wilshere,0.004567051700572217,MF,Arsenal
+Georges-Kévin N'Koudou,0.0006715592366284158,MF,Burnley
+Trent Alexander-Arnold,0.0015181351226749179,MF,Liverpool
+James Milner,0.010002086667635392,MF,Liverpool
+David Silva,0.02168969259780469,MF,Manchester City
+Bernardo Silva,0.0012024059383410866,MF,Manchester City
+Rajiv Van La Parra,0.002983792695107832,MF,Huddersfield
+Yannick Bolasie,0.0008492006921139945,MF,Everton
+Nikola Vlašić,0.0019439713147197523,MF,Everton
+Lewis Cook,0.006492866312306064,MF,Bournemouth
+Étienne Capoue,0.004416489557961187,MF,Watford
+Mikel Merino,0.0038262646019063913,MF,Newcastle
+Matt Phillips,0.003873092729868547,MF,West Brom
+Grzegorz Krychowiak,0.004989626035977941,MF,West Brom
+Kieran Trippier,0.005450177907621342,MF,Tottenham
+Danny Rose,0.0014740284679339297,MF,Tottenham
+Xherdan Shaqiri,0.00345906304106635,MF,Stoke City
+Moritz Bauer,0.0013839868446051734,MF,Stoke City
+Ramadan Sobhi,0.0016858453284318788,MF,Stoke City
+Marouane Fellaini,0.0017227558773670682,MF,Manchester United
+Nemanja Matić,0.012266394139317138,MF,Manchester United
+Jesse Lingard,0.0036028585696830343,MF,Manchester United
+Eric Dier,0.009565325553169954,MF,Tottenham
+Mousa Dembélé,0.007483034637125399,MF,Tottenham
+Kiko Femenia,0.003304757297916677,MF,Watford
+Henrikh Mkhitaryan,0.006522508775491505,MF,Arsenal
+Reiss Nelson,0.0007829083413262146,MF,Arsenal
+Joseph Willock,0.0005974833951288168,MF,Arsenal
+Edimilson Fernandes,0.0012699881311786067,MF,West Ham
+Aaron Cresswell,0.002101168031826239,MF,West Ham
+João Mário,0.0005419369275015063,MF,West Ham
+Jeff Hendrick,0.0012794359999419229,MF,Burnley
+Wilfred Ndidi,0.006829435741170006,MF,Leicester
+Collin Quaner,0.002987625698822347,MF,Huddersfield
+Wayne Rooney,0.00456292212520635,MF,Everton
+Theo Walcott,0.002572472453399915,MF,Everton
+Mario Lemina,0.005359168181551786,MF,Southampton
+Jordon Ibe,0.00343175583418937,MF,Bournemouth
+André Ayew,0.0014611579616288322,MF,Swansea
+Mohamed Elneny,0.003966416113991093,MF,Arsenal
+Manuel Lanzini,0.003136957881040936,MF,West Ham
+Oliver Burke,0.000719111191266072,MF,West Brom
+Alex Oxlade-Chamberlain,0.007846628371615417,MF,Liverpool
+Pedro,0.0007484244061291472,MF,Chelsea
+Steven Davis,0.004993158020098574,MF,Southampton
+Claudio Yacob,0.0013755145983464882,MF,West Brom
+Joshua King,0.000706792978358917,MF,Bournemouth
+Jaïro Riedewald,0.0009920157107452176,MF,Crystal Palace
+Beni Baningime,0.0006553997782654282,MF,Everton
+Josh Sims,0.0007079711722857548,MF,Southampton
+Josh Cullen,0.000525070812721887,MF,West Ham
+Danny Welbeck,0.0009622842503457414,MF,Arsenal
+Marc Pugh,0.002443677782968043,MF,Bournemouth
+Marc Albrighton,0.007774391194127583,MF,Leicester
+Christian Atsu,0.004113632019957564,MF,Newcastle
+Callum Hudson-Odoi,0.0005402424451256213,MF,Chelsea
+Mesut Özil,0.005730710450276695,MF,Arsenal
+Dominic Calvert-Lewin,0.00163760189435699,MF,Everton
+Kyle Walker,0.0021313556380720047,MF,Manchester City
+Leroy Sané,0.0014694694618518122,MF,Manchester City
+Jürgen Locadia,0.0005891935229905381,MF,Brighton
+Juan Mata,0.007356420182911123,MF,Manchester United
+Alexis Sánchez,0.003896422541686866,MF,Manchester United
+Elias Kachunga,0.00243114448498997,MF,Huddersfield
+Junior Stanislas,0.003426887585013297,MF,Bournemouth
+Allan Nyom,0.0010157962803830742,MF,West Brom
+Kieran Gibbs,0.0018715722755115974,MF,West Brom
+Sofiane Boufal,0.0026861501603207944,MF,Southampton
+Emre Can,0.010104995487420141,MF,Liverpool
+José Holebas,0.001237575036688541,MF,Watford
+Samuel Field,0.0010213933502994936,MF,West Brom
+Jeffrey Schlupp,0.0018912183603602727,MF,Crystal Palace
+Charlie Adam,0.0012843773003706782,MF,Stoke City
+Eric Maxim Choupo-Moting,0.002157910942024253,MF,Stoke City
+Geoff Cameron,0.0018486903793834791,MF,Stoke City
+Adam Smith,0.0020537835982371647,MF,Bournemouth
+Andros Townsend,0.004748063949739486,MF,Crystal Palace
+Wilfried Zaha,0.0013387837981078368,MF,Crystal Palace
+Gylfi Sigurðsson,0.005650943159203746,MF,Everton
+Danny Williams,0.0021572609431408495,MF,Huddersfield
+Shinji Okazaki,0.0017601971344257802,MF,Leicester
+Michail Antonio,0.0023292535537726327,MF,West Ham
+Marcus Rashford,0.0033115736501015637,MF,Manchester United
+Danny Drinkwater,0.0020653481395148977,MF,Chelsea
+DeAndre Yedlin,0.0005398886297292798,MF,Newcastle
+Matty James,0.00206651375591997,MF,Leicester
+Patrice Evra,0.0006535020509715086,MF,West Ham
+André Carrillo,0.003913427699750366,MF,Watford
+Oleksandr Zinchenko,0.0005948051101313615,MF,Manchester City
+Gareth Barry,0.004699261999950821,MF,West Brom
+Anthony Martial,0.0030461319323052873,MF,Manchester United
+Ben Chilwell,0.0007615191215760301,MF,Leicester
+Scott Arfield,0.002189446043948354,MF,Burnley
+Daryl Janmaat,0.0013221039408832197,MF,Watford
+Marvin Zeegelaar,0.0019807793910396826,MF,Watford
+Dodi Lukebakio,0.0005626286552558949,MF,Watford
+Jonjoe Kenny,0.0009238087464445937,MF,Everton
+Cuco Martina,0.001256908022998252,MF,Everton
+Mame Biram Diouf,0.0018888332760141281,MF,Stoke City
+Sam Byram,0.0008499585378914505,MF,West Ham
+Leroy Fer,0.003246832692432534,MF,Swansea
+Tom Cleverley,0.0078112288202631264,MF,Watford
+Bakary Sako,0.0005899155381991364,MF,Crystal Palace
+Steven Defour,0.005777548322674785,MF,Burnley
+James McCarthy,0.0008067342998987381,MF,Everton
+Ben Watson,0.001434616539356819,MF,Watford
+Abdelhamid Sabiri,0.0011734407164268566,MF,Huddersfield
+Charly Musonda Jr,0.0006103677554280005,MF,Chelsea
+Héctor Bellerín,0.0061305685277451664,MF,Arsenal
+Ashley Barnes,0.0005505344070321117,MF,Burnley
+Joe Lolley,0.0005666180739853568,MF,Huddersfield
+Renato Sanches,0.0024036046382029824,MF,Swansea
+Isaiah Brown,0.001143017025994685,MF,Brighton
+Harry Arter,0.0023007295297957017,MF,Bournemouth
+Sead Kolašinac,0.005066156875342155,MF,Arsenal
+Jason Puncheon,0.0016292091770366837,MF,Crystal Palace
+Ibrahim Afellay,0.0006405472030488811,MF,Stoke City
+Philippe Coutinho,0.005736615992699025,MF,Liverpool
+Roque Mesa,0.002152834281316143,MF,Swansea
+Francis Coquelin,0.0006974348294892086,MF,Arsenal
+Rolando Aarons,0.0005390482632619326,MF,Newcastle
+Jordan Ayew,0.000884560522449376,MF,Swansea
+Zlatan Ibrahimović,0.000620822686369941,MF,Manchester United
+Harry Winks,0.004435727569561247,MF,Tottenham
+Jay Fulton,0.0005245508804753592,MF,Swansea
+Henri Saivet,0.0006109024754275441,MF,Newcastle
+Hal Robson-Kanu,0.0005406321760022938,MF,West Brom
+Ethan Ampadu,0.0005317276272315983,MF,Chelsea
+Ezequiel Schelotto,0.0005428326294328899,MF,Brighton
+Tom Edwards,0.0005646736953222864,MF,Stoke City
+Erik Pieters,0.0024018079320340634,MF,Stoke City
+Fabian Delph,0.0011174613057864746,MF,Manchester City
+Antonio Valencia,0.0010108611567528664,MF,Manchester United
+Andrew Robertson,0.0006576865146902262,MF,Liverpool
+Marko Grujić,0.000539513884783985,MF,Liverpool
+Kasey Palmer,0.0006064879718830347,MF,Huddersfield
+Robbie Brady,0.00416613941459896,MF,Burnley
+Javier Manquillo,0.0006090000041490732,MF,Newcastle
+Marko Arnautović,0.0008968446271380296,MF,West Ham
+Roberto Firmino,0.0009113164674321033,MF,Liverpool
+Chris Löwe,0.0007386940032953369,MF,Huddersfield
+Serge Aurier,0.0016682166775013347,MF,Tottenham
+Ben Davies,0.004201612571116004,MF,Tottenham
+Kevin Mirallas,0.0006274224381518649,MF,Everton
+Kyle Naughton,0.001584249973093716,MF,Swansea
+Raheem Sterling,0.0007733905948850462,MF,Manchester City
+Glen Johnson,0.0006163190287681288,MF,Stoke City
+César Azpilicueta,0.0012730288770230072,MF,Chelsea
+James Morrison,0.0009092542201695065,MF,West Brom
+Jamie Murphy,0.000696924235263844,MF,Brighton
+Levi Lumeka,0.0005418409924288918,MF,Crystal Palace
+Benjamin Mendy,0.0011241628546459722,MF,Manchester City
+Mason Holgate,0.0011523228833142008,MF,Everton
+Muhamed Bešić,0.0007163903834401026,MF,Everton
+Joel Ward,0.000993845502503741,MF,Crystal Palace
+Patrick van Aanholt,0.0010220776892617897,MF,Crystal Palace
+Declan Rice,0.0006668924990345406,MF,West Ham
+David Luiz,0.0005244755244755246,MF,Chelsea
+Sullay Kaikai,0.0005287248271344888,MF,Crystal Palace
+Danilo,0.0006464137667901825,MF,Manchester City
+Rekeem Harper,0.0005510406492934511,MF,West Brom
+Jeff Hendrick,0.0085335797131822,FW,Burnley
+Chris Wood,0.008583159319812881,FW,Burnley
+Dwight McNeil,0.0008379888268156427,FW,Burnley
+Nahki Wells,0.0008379888268156427,FW,Burnley
+Sam Vokes,0.005291131642088638,FW,Burnley
+Jordon Ibe,0.004547779685223256,FW,Bournemouth
+Lys Mousset,0.002482001598227178,FW,Bournemouth
+Joshua King,0.01368047043614012,FW,Bournemouth
+Callum Wilson,0.00889120483548377,FW,Bournemouth
+Jermain Defoe,0.0058238689308969666,FW,Bournemouth
+Andros Townsend,0.01429520792029403,FW,Crystal Palace
+Wilfried Zaha,0.015234663689505643,FW,Crystal Palace
+Christian Benteke,0.00892511938844412,FW,Crystal Palace
+Grzegorz Krychowiak,0.0008379888268156427,FW,West Brom
+Salomón Rondón,0.011443178182858454,FW,West Brom
+Daniel Sturridge,0.004332482270037485,FW,West Brom
+Hal Robson-Kanu,0.003771540110785449,FW,West Brom
+Alex Pritchard,0.0028457550443384567,FW,Huddersfield
+Steve Mounié,0.011323990691335405,FW,Huddersfield
+Laurent Depoitre,0.008904300981453915,FW,Huddersfield
+Henrikh Mkhitaryan,0.0018145061389541611,FW,Arsenal
+Alexandre Lacazette,0.014120649451382125,FW,Arsenal
+Pierre-Emerick Aubameyang,0.009546104727989987,FW,Arsenal
+Danny Welbeck,0.004529820406911113,FW,Arsenal
+Roberto Firmino,0.025111670733469635,FW,Liverpool
+Dominic Solanke,0.005622868860095097,FW,Liverpool
+Danny Ings,0.0025136173863694426,FW,Liverpool
+Jürgen Locadia,0.0013734923878602982,FW,Brighton
+Glenn Murray,0.010519142700187585,FW,Brighton
+Juan Mata,0.003933449112515455,FW,Manchester United
+Marcus Rashford,0.005335159084564142,FW,Manchester United
+Alexis Sánchez,0.021037174185555667,FW,Manchester United
+Andre Gray,0.008555731747602635,FW,Watford
+Troy Deeney,0.012413967261098573,FW,Watford
+Dwight Gayle,0.01131078961674299,FW,Newcastle
+Joselu,0.009297003228615314,FW,Newcastle
+Eden Hazard,0.02033891442846915,FW,Chelsea
+Olivier Giroud,0.007201899659118063,FW,Chelsea
+Pedro,0.007119051643961414,FW,Chelsea
+Álvaro Morata,0.015816475057217838,FW,Chelsea
+Charlie Austin,0.0043665620758579935,FW,Southampton
+Shane Long,0.008377351784920545,FW,Southampton
+Bernardo Silva,0.015643938395225786,FW,Manchester City
+Raheem Sterling,0.03187709751143381,FW,Manchester City
+Leroy Sané,0.027725377930361762,FW,Manchester City
+Gabriel Jesus,0.022133456228597467,FW,Manchester City
+André Ayew,0.007045376259418734,FW,Swansea
+Jordan Ayew,0.009049857104879785,FW,Swansea
+Tammy Abraham,0.00559147484187227,FW,Swansea
+Xherdan Shaqiri,0.013403676011935805,FW,Stoke City
+Peter Crouch,0.0075496730146365635,FW,Stoke City
+Mame Biram Diouf,0.006515012678083385,FW,Stoke City
+Harry Kane,0.02467472063308513,FW,Tottenham
+Heung-Min Son,0.0037756854618881354,FW,Tottenham
+Jamie Vardy,0.018401247559379802,FW,Leicester
+Harvey Barnes,0.0008379888268156427,FW,Leicester
+Fousseni Diabaté,0.0017042878156214038,FW,Leicester
+João Mário,0.005443307710541005,FW,West Ham
+Manuel Lanzini,0.007904173592715374,FW,West Ham
+Marko Arnautović,0.011774718470938778,FW,West Ham
+Edimilson Fernandes,0.0013635423735458632,FW,West Ham
+Cenk Tosun,0.0066435765549365975,FW,Everton
+Oumar Niasse,0.006742749509295334,FW,Everton
+Yannick Bolasie,0.000906604078088168,FW,Everton
+Theo Walcott,0.0037089829877694587,FW,Everton
+Andy Carroll,0.002208526733335703,FW,West Ham
+Jesse Lingard,0.005567073195940877,FW,Manchester United
+Lukas Nmecha,0.0008379888268156427,FW,Manchester City
+Leonardo Ulloa,0.002476878637668588,FW,Brighton
+Kelechi Iheanacho,0.004932019471100556,FW,Leicester
+Edward Nketiah,0.0008379888268156427,FW,Arsenal
+Willian,0.015838564854988038,FW,Chelsea
+Rajiv Van La Parra,0.0008379888268156427,FW,Huddersfield
+Sam Clucas,0.001961478682870787,FW,Swansea
+Dušan Tadić,0.0058463470604534626,FW,Southampton
+Nathan Redmond,0.0012495210020875224,FW,Southampton
+Manolo Gabbiadini,0.005681076377236038,FW,Southampton
+Ashley Barnes,0.010340646999222733,FW,Burnley
+Mohamed Salah,0.032909274095406005,FW,Liverpool
+Sadio Mané,0.0165522943823036,FW,Liverpool
+Mario Lemina,0.0008379888268156427,FW,Southampton
+Marc Pugh,0.0010973985191487137,FW,Bournemouth
+Nathan Dyer,0.0025641360529388172,FW,Swansea
+Adrien Silva,0.0010599288279095039,FW,Leicester
+Richarlison,0.009206117737188376,FW,Watford
+Gerard Deulofeu,0.003968188963665151,FW,Watford
+Ayoze Pérez,0.009891907037612994,FW,Newcastle
+Jay Rodriguez,0.011727861477758618,FW,West Brom
+Érik Lamela,0.0016065763997286176,FW,Tottenham
+Dele Alli,0.006736441851684268,FW,Tottenham
+Fernando Llorente,0.002959266301135492,FW,Tottenham
+Tyrese Campbell,0.0008379888268156427,FW,Stoke City
+Anthony Knockaert,0.0013224106240154535,FW,Brighton
+José Izquierdo,0.001736839487163873,FW,Brighton
+Anthony Martial,0.009576195584628792,FW,Manchester United
+André Carrillo,0.003564871172403972,FW,Watford
+Romelu Lukaku,0.02487806930914377,FW,Manchester United
+Javier Hernández,0.007911852712576469,FW,West Ham
+Pascal Groß,0.01695027013628232,FW,Brighton
+Islam Slimani,0.0033443209624215977,FW,Newcastle
+Dominic Calvert-Lewin,0.007784884116260433,FW,Everton
+Alex Iwobi,0.007451555994130306,FW,Arsenal
+Stefano Okaka,0.003076223067996796,FW,Watford
+James Ward-Prowse,0.001937562802478658,FW,Southampton
+Shinji Okazaki,0.004158446505081817,FW,Leicester
+Jerome Sinclair,0.0008525931601675427,FW,Watford
+Nikola Vlašić,0.0008379888268156427,FW,Everton
+Sergio Agüero,0.027536563976650327,FW,Manchester City
+Collin Quaner,0.0020879158123062636,FW,Huddersfield
+Saido Berahino,0.0021073279024490556,FW,Stoke City
+Sam Baldock,0.0008379888268156427,FW,Brighton
+Michail Antonio,0.002700774455036029,FW,West Ham
+Jordan Hugill,0.0008379888268156427,FW,West Ham
+Guido Carrillo,0.001864820389216882,FW,Southampton
+Roberto Pereyra,0.0013757933248895733,FW,Watford
+Elias Kachunga,0.0010476628133902197,FW,Huddersfield
+Ramadan Sobhi,0.002006407000553878,FW,Stoke City
+Jesé Rodríguez,0.0026872678314711924,FW,Stoke City
+Eric Maxim Choupo-Moting,0.004856680501535954,FW,Stoke City
+Alexander Sørloth,0.001331885348182402,FW,Crystal Palace
+Oliver Burke,0.002013234826407969,FW,West Brom
+Matt Phillips,0.0013243325431593171,FW,West Brom
+Christian Atsu,0.0013277624114442295,FW,Newcastle
+Jacob Murphy,0.0010045683560323542,FW,Newcastle
+Riyad Mahrez,0.0026546561870305903,FW,Leicester
+Marc Albrighton,0.001008664710333852,FW,Leicester
+Wayne Rooney,0.006426407587631713,FW,Everton
+Gylfi Sigurðsson,0.003270810823273757,FW,Everton
+Junior Stanislas,0.002135136833043478,FW,Bournemouth
+Mesut Özil,0.010411795929191463,FW,Arsenal
+Cheikhou Kouyaté,0.0009440531009387973,FW,West Ham
+Wilfried Bony,0.003810761440967865,FW,Swansea
+Ross Barkley,0.0008794911253332349,FW,Chelsea
+Michael Obafemi,0.0008379888268156427,FW,Southampton
+Bakary Sako,0.0019846327329283335,FW,Crystal Palace
+Ryan Fraser,0.0026962534740673193,FW,Bournemouth
+Tomer Hemed,0.0036583321381619136,FW,Brighton
+Solly March,0.0008379888268156427,FW,Brighton
+Michy Batshuayi,0.0017380443395356051,FW,Chelsea
+Benik Afobe,0.0014137744911014586,FW,Bournemouth
+Oliver McBurnie,0.0012833623465154781,FW,Swansea
+Aaron Lennon,0.0008379888268156427,FW,Everton
+Julien Ngoy,0.0008379888268156427,FW,Stoke City
+Joe Lolley,0.0010960159510941718,FW,Huddersfield
+Demarai Gray,0.002712118300999337,FW,Leicester
+Philippe Coutinho,0.0054253718901239876,FW,Liverpool
+Jonathan Walters,0.0008379888268156427,FW,Burnley
+Luciano Narsingh,0.001089809022270859,FW,Swansea
+Sandro Ramírez,0.0008422035153693307,FW,Everton
+Ademola Lookman,0.0013628238758453847,FW,Everton
+James McClean,0.0013339277890347494,FW,West Brom
+Diafra Sakho,0.001609095018278647,FW,West Ham
+Rolando Aarons,0.0008950335321275951,FW,Newcastle
+Zlatan Ibrahimović,0.0012662815581228537,FW,Manchester United
+Aleksandar Mitrović,0.001142493470452773,FW,Newcastle
+Wayne Routledge,0.001147597798239531,FW,Swansea
+Kevin Mirallas,0.0008379888268156427,FW,Everton
+Alex Oxlade-Chamberlain,0.0014050940097191256,FW,Liverpool
+Will Hughes,0.002379742498805069,FW,Watford
+Thomas Ince,0.0008379888268156427,FW,Huddersfield
+Isaiah Brown,0.0008379888268156427,FW,Brighton
+Nacer Chadli,0.0019751660249419352,FW,West Brom
+Dan Gosling,0.0011151032557643542,FW,Bournemouth
+Jeffrey Schlupp,0.0008379888268156427,FW,Crystal Palace
+Freddie Ladapo,0.0008379888268156427,FW,Crystal Palace
+Christian Eriksen,0.0008379888268156427,FW,Tottenham
+Aaron Ramsey,0.0008379888268156427,FW,Arsenal
+Tom Davies,0.0008379888268156427,FW,Everton
+Scott Arfield,0.002359751720085919,FW,Burnley
+Ruben Loftus-Cheek,0.0015851699559982415,FW,Crystal Palace
+Chung-yong Lee,0.0009505794567931634,FW,Crystal Palace
+Cesc Fàbregas,0.0011744820086957686,FW,Chelsea
+Nordin Amrabat,0.0014045900174079337,FW,Watford
+Jamie Murphy,0.0008379888268156427,FW,Brighton
+Vincent Janssen,0.0008379888268156427,FW,Tottenham
+Jérémie Boga,0.0008379888268156427,FW,Chelsea
+Davy Klaassen,0.0010495685098502825,FW,Everton
+Bojan Krkić,0.0011161369495908265,FW,Stoke City
+Divock Origi,0.0008379888268156427,FW,Liverpool

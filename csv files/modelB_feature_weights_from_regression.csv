@@ -1,0 +1,15 @@
+Category,Feature,Weight
+GK,saves_per90,1.0
+DF,tackles_per90,0.19105774142772966
+DF,interceptions_per90,0.2794643623907689
+DF,blocks_per90,0.0
+DF,passes_per90,0.5294778961815015
+MF,passes_per90,0.4314306191715592
+MF,assists_per90,0.2252213231275385
+MF,big_chances_created_per90,0.28005807908717917
+MF,tackles_per90,0.0
+MF,interceptions_per90,0.06328997861372307
+FW,goals_per90,0.39590560802043123
+FW,sot_per90,0.0
+FW,assists_per90,0.2860391093530633
+FW,big_chances_created_per90,0.31805528262650545
